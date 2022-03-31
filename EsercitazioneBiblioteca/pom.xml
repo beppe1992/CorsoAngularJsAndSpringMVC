@@ -17,7 +17,7 @@
 		<javax-el.version>2.2</javax-el.version>
 		<jstl.version>1.2</jstl.version>
 		<jsp.version>2.2</jsp.version>
-		<spring-framework.version>4.3.0.RELEASE</spring-framework.version>
+		<spring-framework.version>5.3.18</spring-framework.version>
 		<servlet.version>2.5</servlet.version>
 		<jackson.version>2.10.0</jackson.version>
 		<bootstrap.version>2.3.2</bootstrap.version>
