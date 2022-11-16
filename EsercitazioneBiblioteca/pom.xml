@@ -19,7 +19,7 @@
 		<jsp.version>2.2</jsp.version>
 		<spring-framework.version>5.3.18</spring-framework.version>
 		<servlet.version>2.5</servlet.version>
-		<jackson.version>2.12.6.1</jackson.version>
+		<jackson.version>2.12.7.1</jackson.version>
 		<bootstrap.version>2.3.2</bootstrap.version>
 		<webjars-angular-ui-bootstrap.version>0.11.0</webjars-angular-ui-bootstrap.version>
 	</properties>
